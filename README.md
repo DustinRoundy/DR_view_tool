@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+DRViewTool::Renderer.copyright 'Dustin Roundy', 'All rights reserved'
+```
 
 ## Development
 
